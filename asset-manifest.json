@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs71_Milka4eva/static/css/main.e411af33.css",
-    "main.js": "/react_node_fs71_Milka4eva/static/js/main.4ffc35e7.js",
+    "main.js": "/react_node_fs71_Milka4eva/static/js/main.e29bd289.js",
     "static/js/284.2e76e417.chunk.js": "/react_node_fs71_Milka4eva/static/js/284.2e76e417.chunk.js",
     "static/js/261.e4a8289e.chunk.js": "/react_node_fs71_Milka4eva/static/js/261.e4a8289e.chunk.js",
     "static/css/673.a0a535cf.chunk.css": "/react_node_fs71_Milka4eva/static/css/673.a0a535cf.chunk.css",
@@ -44,7 +44,7 @@
     "static/media/log-out-button.svg": "/react_node_fs71_Milka4eva/static/media/log-out-button.324d964ffd87224704e90318fc12a39a.svg",
     "static/media/cross.svg": "/react_node_fs71_Milka4eva/static/media/cross.47bc89769b79c42953b932d95fa06159.svg",
     "main.e411af33.css.map": "/react_node_fs71_Milka4eva/static/css/main.e411af33.css.map",
-    "main.4ffc35e7.js.map": "/react_node_fs71_Milka4eva/static/js/main.4ffc35e7.js.map",
+    "main.e29bd289.js.map": "/react_node_fs71_Milka4eva/static/js/main.e29bd289.js.map",
     "284.2e76e417.chunk.js.map": "/react_node_fs71_Milka4eva/static/js/284.2e76e417.chunk.js.map",
     "261.e4a8289e.chunk.js.map": "/react_node_fs71_Milka4eva/static/js/261.e4a8289e.chunk.js.map",
     "673.a0a535cf.chunk.css.map": "/react_node_fs71_Milka4eva/static/css/673.a0a535cf.chunk.css.map",
@@ -65,6 +65,6 @@
   },
   "entrypoints": [
     "static/css/main.e411af33.css",
-    "static/js/main.4ffc35e7.js"
+    "static/js/main.e29bd289.js"
   ]
 }
